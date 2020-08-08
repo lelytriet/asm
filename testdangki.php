@@ -7,7 +7,7 @@
 
 <body>
 <form id="form1" name="form1" method="post" action="index.php">
-  <p>email:b
+  <p>email:
     <input type="text" name="email" id="email" />
   </p>
   <p>name: 
